@@ -1,0 +1,11 @@
+C:\Users\HaiQ\source\repos\CS_Battleships\CS_Battleships\bin\Debug\netcoreapp3.1\CS_Battleships.exe
+C:\Users\HaiQ\source\repos\CS_Battleships\CS_Battleships\bin\Debug\netcoreapp3.1\CS_Battleships.deps.json
+C:\Users\HaiQ\source\repos\CS_Battleships\CS_Battleships\bin\Debug\netcoreapp3.1\CS_Battleships.runtimeconfig.json
+C:\Users\HaiQ\source\repos\CS_Battleships\CS_Battleships\bin\Debug\netcoreapp3.1\CS_Battleships.runtimeconfig.dev.json
+C:\Users\HaiQ\source\repos\CS_Battleships\CS_Battleships\bin\Debug\netcoreapp3.1\CS_Battleships.dll
+C:\Users\HaiQ\source\repos\CS_Battleships\CS_Battleships\bin\Debug\netcoreapp3.1\CS_Battleships.pdb
+C:\Users\HaiQ\source\repos\CS_Battleships\CS_Battleships\obj\Debug\netcoreapp3.1\CS_Battleships.csprojAssemblyReference.cache
+C:\Users\HaiQ\source\repos\CS_Battleships\CS_Battleships\obj\Debug\netcoreapp3.1\CS_Battleships.AssemblyInfoInputs.cache
+C:\Users\HaiQ\source\repos\CS_Battleships\CS_Battleships\obj\Debug\netcoreapp3.1\CS_Battleships.AssemblyInfo.cs
+C:\Users\HaiQ\source\repos\CS_Battleships\CS_Battleships\obj\Debug\netcoreapp3.1\CS_Battleships.dll
+C:\Users\HaiQ\source\repos\CS_Battleships\CS_Battleships\obj\Debug\netcoreapp3.1\CS_Battleships.pdb
